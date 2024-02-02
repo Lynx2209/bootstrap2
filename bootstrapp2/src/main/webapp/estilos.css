@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.filaVerdeArriba {
+	background-color: lawngreen;
+}
+
+.row {
+	margin: 5px;
+}
+
+.coli {
+	margin: 5px;
+}
+
+.filaVerdeAbajo {
+	background-color: lawngreen;
+}
+
+.filaRojaIzquierda {
+	background-color: red;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 8px;
+}
+
+.filaRosa {
+	background-color: deeppink;
+	margin: 5px;
+}
+
+.filaCarne {
+	background-color: lightsalmon;
+	height: 200px;
+	margin: 5px;
+}
+
+.filaAzul {
+	background-color: blue;
+	height: 80px;
+	margin: 5px;
+}
+
+.cuadradoChico {
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
